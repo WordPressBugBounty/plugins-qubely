@@ -1,10 +1,10 @@
 === Qubely - Advanced Gutenberg Blocks ===
 Contributors: themeum
 Donate link: https://www.themeum.com
-Tags: blocks, gutenberg, gutenberg, editor
+Tags: blocks, gutenberg, gutenberg blocks, editor, block, page builder
 Requires at least: 5.3
-Tested up to: 6.5.3
-Stable tag: 1.8.11
+Tested up to: 6.6.2
+Stable tag: 1.8.12
 Requires PHP: 7.0
 License: GPL-2.0+
 License URI: http://www.gnu.org/licenses/gpl-2.0.txt
@@ -32,6 +32,8 @@ Extend the default WordPress Gutenberg editor with many custom blocks that are m
 * Box-shadow
 * Font Awesome 5 Icons and line icons
 * Custom CSS
+
+Want to know all the latest news and be part of the Qubely community? [Join our Facebook group](https://www.facebook.com/groups/qubely/)!
 
 
 ## ADVANCED GUTENBERG BLOCKS INSIDE QUBELY
@@ -227,6 +229,9 @@ You can report bugs on the [support forum here](https://wordpress.org/support/pl
 
 
 == Changelog ==
+
+= 1.8.12 =
+Update: Added WordPress 6.6 Compatibility
 
 = 1.8.11 =
 Compatibility: Improved compatibility with Qubely Pro
